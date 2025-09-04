@@ -8,4 +8,5 @@ add_executable(SESC "Азбука C++/Hello, world/Classwork/1.cpp"
         "Азбука C++/Hello, world/Classwork/2.cpp"
         "Азбука C++/Hello, world/Classwork/3.cpp"
         "Азбука C++/Hello, world/Homework/1.cpp"
-        "Азбука C++/Hello, world/Homework/2.cpp")
+        "Азбука C++/Hello, world/Homework/2.cpp"
+        "Азбука C++/Hello, world/DeepThink/1.cpp")
