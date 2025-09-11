@@ -28,4 +28,9 @@ add_executable(SESC "Азбука C++/Hello, world/Classwork/1.cpp"
         "Азбука C++/Типы данных/Homework/1.cpp"
         "Азбука C++/Типы данных/Homework/2.cpp"
         "Азбука C++/Циклы. Часть 1/Classwork/1.cpp"
-        "Азбука C++/Циклы. Часть 1/Classwork/2.cpp")
+        "Азбука C++/Циклы. Часть 1/Classwork/2.cpp"
+        "Азбука C++/Условия/Classwork/7.cpp"
+        "Азбука C++/Условия/Classwork/4.cpp"
+        "Азбука C++/Условия/Classwork/3.cpp"
+        "Азбука C++/Условия/Classwork/2.cpp"
+        "Азбука C++/Условия/Classwork/1.cpp")
