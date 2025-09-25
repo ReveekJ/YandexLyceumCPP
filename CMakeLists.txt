@@ -35,4 +35,5 @@ add_executable(SESC "Азбука C++/Hello, world/Classwork/1.cpp"
         "Азбука C++/Условия/Classwork/2.cpp"
         "Азбука C++/Условия/Classwork/1.cpp"
         "YandexContest/1. Печать текста.cpp"
-        "YandexContest/2. Сумма чисел.cpp")
+        "YandexContest/2. Сумма чисел.cpp"
+        "YandexContest/3. Дюймы.cpp")
