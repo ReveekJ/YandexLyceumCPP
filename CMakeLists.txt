@@ -50,4 +50,5 @@ add_executable(SESC "Азбука C++/Hello, world/Classwork/1.cpp"
         "Азбука C++/Циклы. Часть 2/Homework/1 Викторина.cpp"
         "Азбука C++/Циклы. Часть 2/Homework/2.cpp"
         "Азбука C++/Массивы/Classwork/1. 18 финала.cpp"
-        "Азбука C++/Массивы/Classwork/2. Первый-нулевой.cpp")
+        "Азбука C++/Массивы/Classwork/2. Первый-нулевой.cpp"
+        "Азбука C++/Указатели/Classwork/1. Стильная одежда.cpp")
